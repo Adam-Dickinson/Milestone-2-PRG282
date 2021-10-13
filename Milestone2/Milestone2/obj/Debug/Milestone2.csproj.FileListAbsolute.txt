@@ -1,0 +1,13 @@
+C:\Users\adamg\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.exe.config
+C:\Users\adamg\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.exe
+C:\Users\adamg\source\repos\Milestone2\Milestone2\bin\Debug\Milestone2.pdb
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csprojAssemblyReference.cache
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.LoginFrm.resources
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.Properties.Resources.resources
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csproj.GenerateResource.cache
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.csproj.CoreCompileInputs.cache
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.exe
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.pdb
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.Main_Menu.resources
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.View_Modules.resources
+C:\Users\adamg\source\repos\Milestone2\Milestone2\obj\Debug\Milestone2.View_Students.resources
